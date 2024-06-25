@@ -1,0 +1,21 @@
+th, td {
+    text-align: center;
+  }
+  .btn-edit {
+    background-color: #007bff;
+    color: white;
+  }
+  .btn-delete {
+    background-color: #dc3545;
+    color: white;
+  }
+  .btn-edit, .btn-delete {
+    display: block;
+    margin: 3px;
+  }
+  .tools{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
